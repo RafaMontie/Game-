@@ -1,4 +1,4 @@
-# Projeto para o TCC
+# Projeto
 * FPS 
 * Policial/Investigação
 
@@ -7,10 +7,10 @@
 * Mapas pequenos 
 
 # Música
-* (em andamento)
+* Software: Music Maker
 
 # Andamento do projeto
-* 10% pronto 
+* 90% pronto
 
 # Ferramentas/Softwares
 * Unreal Engine 4
