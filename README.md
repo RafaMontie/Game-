@@ -7,14 +7,13 @@
 * Mapas pequenos 
 
 # Música
-* Software: Music Maker
+* Youtube: Música de suspense
 
 # Andamento do projeto
 * 90% pronto
 
 # Ferramentas/Softwares
 * Unreal Engine 4
-* Music Maker
 
 # Assets
 * Mixamo
